@@ -1,0 +1,80 @@
+#map-canvas {
+    width: 100%;
+    min-height: 200px;
+}
+
+@media (min-width: 576px) {
+    #map-canvas {
+        width: 100%;
+        min-height: 200px;
+    }
+}
+
+@media (min-width: 768px) {
+    #map-canvas {
+        width: 100%;
+        min-height: 200px;
+    }
+}
+
+
+@media (min-width: 992px) {
+    #map-canvas {
+        width: 100%;
+        min-height: 500px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    #map-canvas {
+        width: 100%;
+        min-height: 500px;
+    }
+}
+
+
+.slider-title {
+    font-size: 3em !important;
+}
+.service-icon {
+    padding: 2px;
+    background-color: #fff !important;
+}
+.custom-icon {
+    max-width: 50px;
+    height: 60px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain;
+    margin-top:5px;
+}
+.custom-icon-small {
+    max-width: 20px;
+    height: 20px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain;
+    margin-top:5px;
+}
+.custom-image {
+    height: 250px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.small-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-size: cover;
+    margin-right: 20px;
+}
+
+.bg-secondary {
+    background-color: #0c1446 !important;
+}
+
+
+
